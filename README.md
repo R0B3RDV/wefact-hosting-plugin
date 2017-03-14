@@ -2,7 +2,7 @@
 Pay.nl plugin for WeFact:Hosting
 
 ## Installation
-1. Copy the folder 'klantenbeheer' to your WeFact installation.
+1. Copy the folder 'klantenpaneel' to your WeFact installation.
 2. go to: https://yourwebsite/Pro/paymentmethods.php?action=add
 3. Select one of the pay.nl paymentmethods
 4. Enter your API token and ServiceId
