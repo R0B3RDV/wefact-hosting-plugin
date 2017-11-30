@@ -16,7 +16,7 @@ class paynl_bancontact extends paynl
 
     function loadConfPay()
     {
-        $this->conf['PaymentDirectory'] = 'paynl.ideal';
+        $this->conf['PaymentDirectory'] = 'paynl.bancontact';
         $this->conf['PaymentMethod'] = 'other'; // ideal / paypal / other
         $this->conf['pay_method_id'] = '436';
     }
